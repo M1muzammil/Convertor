@@ -1,0 +1,154 @@
+.bg{
+    background-color: rgb(201, 252, 222);
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(11, 50, 37);
+    font-style: italic;
+    color: azure;
+
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(53, 165, 128);
+    font-style: italic;
+    color: azure;
+}
+.ktog{
+    width: 50%;
+
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: aquamarine;
+}
+.gtok{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: aqua;
+    justify-content: center;
+}
+.jugar{
+    display: flex;
+align-self: flex-end;
+justify-content: end;
+
+}
+.htos{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(159, 250, 178);
+    justify-content: center;
+}
+.stoh{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(116, 189, 210);
+    justify-content: center;
+}
+.ktom{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(236, 222, 152);
+    justify-content: center;
+}
+.mtok{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(225, 159, 218);
+    justify-content: center;
+}
+.ftoi{
+    
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(227, 131, 169);
+    justify-content: center;
+}
+.itof{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(240, 188, 151);
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    background-color: greenyellow;
+    color: black;
+}
+.htom{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(250, 124, 115);
+    justify-content: center;
+
+
+}
+.mtoh{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(144, 143, 143);
+    justify-content: center;
+}
+.mtos{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(146, 134, 238);
+    justify-content: center;
+}
+.stom{
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(181, 95, 154);
+    justify-content: center;
+}
+.ktop{
+
+    display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(181, 95, 154);
+    justify-content: center;
+
+}
+.ptok{ display:flex;
+    width: 50%;
+    align-items: center;
+    background-color: rgb(240, 188, 151);
+    justify-content: center;
+
+}
+
+@media (max-width:500px) {
+    h2{font-size: 1em;
+        
+    }
+    .h2 > h1{
+        font-size: 1em;
+    }
+}
